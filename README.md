@@ -1,6 +1,9 @@
 # Boston Stadium Isn't in Boston
 
-An intelligent match-day planner for FIFA World Cup 2026 visitors arriving in Boston. Gillette Stadium sits 30 miles south of downtown Boston in Foxborough, MA — and Route 1 there ranks among the deadliest corridors in the state. This Marimo notebook combines eight live public datasets into a single door-to-stadium itinerary built around the match you picked and the hotel you entered.
+Developed an intelligent FIFA World Cup 2026 Match-Day Planner that was recognized as one of the Top 5 projects at the PyData Boston × Cursor Boston Hackathon. The solution helps visitors arriving in Boston navigate their journey from hotel to stadium by generating personalized, data-driven itineraries. Built as an interactive Marimo notebook, the project integrates eight live public datasets, including transportation, traffic, weather, and public safety data, to optimize travel plans for matches at Gillette Stadium in Foxborough, Massachusetts.
+
+Recognizing that Gillette Stadium sits 30 miles south of downtown Boston and that Route 1 is among the state's most hazardous traffic corridors, the platform delivers intelligent recommendations that improve travel efficiency, safety, and the overall fan experience. The project stood out among hackathon participants for its real-world impact, innovative use of public data, and practical application of data science to large-scale sporting events.
+
 
 Built for the Cursor / PyData Boston 2026 hackathon.
 
